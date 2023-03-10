@@ -2,8 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&text=HelloWorld&color=368AF5)
   ####  :smile: 안녕하세요! 와주셔서 감사합니다
-  ##### TMI : 저의 목표는 초록색 N 에 들어가는 것 입니다
-  
+  ##### TMI : 저의 목표는 <img src="https://img.shields.io/badge/N-03C75A?style=for-the-badge&logo=N&logoColor=white"> 입니다.
   <br/>
  <br/>
   
