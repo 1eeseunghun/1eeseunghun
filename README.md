@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&text= For A Long Time&color=368AF5)
+![header](https://capsule-render.vercel.app/api?type=waving&text=For&nbsp;A&nbsp;Long&nbsp;Time&color=368AF5)
   ####  :smile: 안녕하세요! 와주셔서 감사합니다
   ##### GOAL : 저의 목표는 <img src="https://img.shields.io/badge/N-03C75A?style=for-the-badge&logo=N&logoColor=white"> 입니다.
   <br/>
